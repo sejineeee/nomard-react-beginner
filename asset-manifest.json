@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/nomard-react-beginner/static/css/main.e6c13ad2.css",
-    "main.js": "/nomard-react-beginner/static/js/main.3d98cb5f.js",
+    "main.css": "/nomard-react-beginner/static/css/main.0a9ebb75.css",
+    "main.js": "/nomard-react-beginner/static/js/main.7272c553.js",
     "index.html": "/nomard-react-beginner/index.html",
-    "main.e6c13ad2.css.map": "/nomard-react-beginner/static/css/main.e6c13ad2.css.map",
-    "main.3d98cb5f.js.map": "/nomard-react-beginner/static/js/main.3d98cb5f.js.map"
+    "main.0a9ebb75.css.map": "/nomard-react-beginner/static/css/main.0a9ebb75.css.map",
+    "main.7272c553.js.map": "/nomard-react-beginner/static/js/main.7272c553.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.3d98cb5f.js"
+    "static/css/main.0a9ebb75.css",
+    "static/js/main.7272c553.js"
   ]
 }
