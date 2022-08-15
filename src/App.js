@@ -8,7 +8,7 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/nomard-react-beginner" element={<Home />} />
         <Route path="/movie/:id" element={<Detail />} />
       </Routes>
     </BrowserRouter>

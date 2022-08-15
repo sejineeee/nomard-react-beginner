@@ -17,7 +17,7 @@ const Home = () => {
   }, []);
 
   return (
-    <div>
+    <div className="movie-container">
       {loading ? (
         <h1>Loading...</h1>
       ) : (
@@ -27,6 +27,7 @@ const Home = () => {
               key={movie.id}
               id={movie.id}
               title={movie.title}
+              year={movie.year}
               coverImg={movie.medium_cover_image}
               summary={movie.summary}
               genres={movie.genres}
